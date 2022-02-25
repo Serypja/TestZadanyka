@@ -4,17 +4,6 @@
 using namespace std;
 
 
-
-
-
-
-
-
-
-
-
-
-
 //Функция которая отправляет на создание обьекта
 void CreateObject(Transport& cl) {
     cl.SetObgectTransport();//Создаём и объявляем переменные
