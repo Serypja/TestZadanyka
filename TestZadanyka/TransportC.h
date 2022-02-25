@@ -2,7 +2,7 @@
 #include<iostream>
 #include<string>
 using namespace std;
-
+// Тест коммит
 class Transport {
 public:
     virtual ~Transport() {} // Виртуальный деструктор для "Ромбовидное наследование"
