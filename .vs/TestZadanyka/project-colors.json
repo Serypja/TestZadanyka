@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2682cc2-abe1-48ca-a8d8-13ba211f2e60": {
+      "ProjectGuid": "a2682cc2-abe1-48ca-a8d8-13ba211f2e60",
+      "DisplayName": "TestZadanyka",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
